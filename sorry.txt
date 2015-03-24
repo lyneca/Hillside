@@ -1,0 +1,7 @@
+I'm really sorry, but this is an archive of backup points of my minecraft world as it develops... if you aren't GitHub, then have fun :)
+
+I'll also on occasion upload the screenshots that I use for navigation of the world. (I use BDcraft :))
+If you can intepret the screenshot dates and world save dates then maybe you will be able to navigate the world :D
+(I almost always have debug information on display, so coords are available.)
+
+I may end up sorting screenshots and world copies into monthly directories to make for less mess... We'll see.
