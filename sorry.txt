@@ -5,3 +5,5 @@ If you can intepret the screenshot dates and world save dates then maybe you wil
 (I almost always have debug information on display, so coords are available.)
 
 I may end up sorting screenshots and world copies into monthly directories to make for less mess... We'll see.
+
+You might want to explain generally why ^^
